@@ -94,10 +94,3 @@ Consider the software Development Life cycle-
   ERD, UML, Design Patterns)
 3. Implementations - Code and Test the Solution to ensure that it follows the design
 and fulfills the requirements( Source code, analytics, Audit, Logs, Tests).
-
-#UML - (Unified Modeling Language)
-UML is a good tool to document something as well-defined as design patterns.
-Design patterns are well understood and UML communicates their structure very well.
-
-
-
