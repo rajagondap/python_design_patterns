@@ -1,4 +1,4 @@
-#UML - (Unified Modeling Language)
+# UML - (Unified Modeling Language)
 UML is a good tool to document something as well-defined as design patterns.
 Design patterns are well understood and UML communicates their structure very well.
 
@@ -43,7 +43,7 @@ We use the diagram to capture following information ( Refer the imaged save in t
    c. Dependencies
 
 
-** --------------------------------------------**
+**--------------------------------------------**
 
 
 To Illustrate the **Behaviour** of our design Patterns we will use the **Sequence Diagram**.
