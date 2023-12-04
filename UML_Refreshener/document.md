@@ -27,14 +27,15 @@ The end goal is to understand **WHAT** is being done and **HOW** it is accomplis
 To Illustrate the **Structure** of our design patterns we will use **Class Diagram**.
 
 A Class diagram is used to construct and visualize **object-oriented relationships**.
-We use the diagram to capture following information ( Refer the imaged save in the folder)
+We use the diagram to capture following information (Refer the imaged save in the folder)
 
 1. Class information such as 
 
    a. Attributes
 
    b. Operations (i.e. Methods)
-2. Class Relationships
+   
+3. Class Relationships
 
    a. Generalizations
 
